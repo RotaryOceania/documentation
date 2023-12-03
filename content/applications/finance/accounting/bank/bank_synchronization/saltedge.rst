@@ -1,5 +1,5 @@
 =========
-Salt Edge
+Salt Edge for Odoo 177 forked for Rotary
 =========
 
 **Salt Edge** is a third-party provider that aggregates banking information
